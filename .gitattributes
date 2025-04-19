@@ -1,0 +1,2 @@
+Frameworks/Jumio.xcframework/** filter=lfs diff=lfs merge=lfs -text
+Frameworks/JumioDefaultUI.xcframework/** filter=lfs diff=lfs merge=lfs -text
